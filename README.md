@@ -6,4 +6,4 @@ Modification for the tidal desktop app for windows. Automatically scrolls to cur
 1. Run `tidal_patcher.exe` or run script directly `node index.js`
 
 # Build instructions
-`node run-script build`
+`npm run-script build`
