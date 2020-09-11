@@ -1,0 +1,15 @@
+{
+  "name": "tidal_patcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "pkg index.js -o tidal_patcher -t node12-win-x64"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asar": "^3.0.3"
+  }
+}
